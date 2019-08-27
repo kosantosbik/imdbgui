@@ -1,4 +1,6 @@
 #!/bin/bash
+# This script downloads the datasets from imdb website
+# and extracts them.
 
 # Dataset links
 prefix='https://datasets.imdbws.com/'
